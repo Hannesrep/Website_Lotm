@@ -3,10 +3,10 @@
 #**Punishment**
 
 Type: Active — Law Enforcement Manifestation  
-**Cost:** Level 5 Spell Slot  
-**Range:** 30 meters (unless otherwise specified)  
-**Action:** Reaction or Action (triggered by rule violation)  
-**Requirement:** Target must have violated an active **Prohibition**
+Cost: Level 5 Spell Slot  
+Range: 30 meters (unless otherwise specified)  
+Action: Reaction or Action (triggered by rule violation)  
+Requirement: Target must have violated an active **Prohibition**
 
 ---
 
